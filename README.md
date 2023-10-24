@@ -1,1 +1,1 @@
-# text-summarisation using PEGASUS
+# text-summarisation using Google PEGASUS-large

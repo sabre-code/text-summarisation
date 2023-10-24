@@ -1,7 +1,8 @@
 import streamlit as st
 import json
 import requests
-
+import os
+API_TOKEN = os.environ.get('API_TOKEN')
 
 
 headers = {"Authorization": f"Bearer {API_TOKEN}"}
